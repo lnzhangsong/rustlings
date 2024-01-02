@@ -1,3 +1,8 @@
+不会的题目
+
+1. exercises/13_error_handling/errors6.rs
+
+
 <div class="oranda-hide">
 
 # rustlings 🦀❤️
