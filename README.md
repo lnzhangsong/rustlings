@@ -1,6 +1,7 @@
 不会的题目
 
 1. exercises/13_error_handling/errors6.rs
+2. quiz3.rs : std::fmt::Display 不懂
 
 
 <div class="oranda-hide">
